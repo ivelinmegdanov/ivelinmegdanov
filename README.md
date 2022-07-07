@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, My name is Ivelin Megdanov</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
 
+- 🔭 I’m currently working on **Labcoin - React**
+
+- 🌱 I’m currently learning **React**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivelin megdanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivelin megdanov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivelin-megdanov-57a41720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivelin-megdanov-57a41720b" height="30" width="40" /></a>
 <a href="https://instagram.com/ivelinmegdanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivelinmegdanov" height="30" width="40" /></a>
 </p>
 
