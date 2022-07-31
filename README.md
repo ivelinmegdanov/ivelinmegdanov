@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Ivelin Megdanov</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on **Labcoin - React**
+- 🔭 I’m currently working on **Online Casino - React**
 
 - 🌱 I’m currently learning **React**
 
