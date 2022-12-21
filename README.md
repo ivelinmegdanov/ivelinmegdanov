@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Ivelin Megdanov</h1>
-<h3 align="center">A passionate back-end developer from Bulgaria</h3>
+<h3 align="center">A passionate front-end developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **React**
 
